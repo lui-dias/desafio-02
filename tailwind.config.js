@@ -12,6 +12,7 @@ module.exports = {
                     100: '#F9F9F9',
                     200: '#EBE9EA',
                 },
+                'black-light': '#181818',
             },
         },
     },
