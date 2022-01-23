@@ -1,6 +1,8 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "desafio-02",
+    "short_name": "desafio-02",
+    "start_url": "/",
+    "id": "/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
